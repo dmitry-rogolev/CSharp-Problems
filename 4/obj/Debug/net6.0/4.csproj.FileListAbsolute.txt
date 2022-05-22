@@ -1,0 +1,15 @@
+/home/dmitry/linux/C#/Problems/4/bin/Debug/net6.0/4
+/home/dmitry/linux/C#/Problems/4/bin/Debug/net6.0/4.deps.json
+/home/dmitry/linux/C#/Problems/4/bin/Debug/net6.0/4.runtimeconfig.json
+/home/dmitry/linux/C#/Problems/4/bin/Debug/net6.0/4.dll
+/home/dmitry/linux/C#/Problems/4/bin/Debug/net6.0/4.pdb
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/4.csproj.AssemblyReference.cache
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/4.AssemblyInfoInputs.cache
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/4.AssemblyInfo.cs
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/4.csproj.CoreCompileInputs.cache
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/4.dll
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/refint/4.dll
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/4.pdb
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/4.genruntimeconfig.cache
+/home/dmitry/linux/C#/Problems/4/obj/Debug/net6.0/ref/4.dll
